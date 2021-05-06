@@ -1,4 +1,5 @@
 <img src="images/slack-notification.png" width="70"/>
+
 # Application Load Alert Notification Add-on for Slack
 
 Get automated alerts in Slack for a certain service isn’t working when some jobs fail or resource limits are about to be exceeded  when:  
@@ -9,7 +10,7 @@ Get automated alerts in Slack for a certain service isn’t working when some jo
  - Disc utilization is next to the 100%
  - External network traffic is close to the expected limit
  
-Such notifications are important because they inform you of the status of your production, and let you quickly fix what needs fixing. In most cases, Slack can be more convenient than emails because people often read them not so often compared to quick messages.
+Such notifications are important because they inform the status of your production, and let you quickly fix what needs fixing. In most cases, Slack can be more convenient than emails because people often read them not so often compared to quick messages.
 
 The installation can be performed on Jelastic certified containers.
 
