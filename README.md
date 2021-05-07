@@ -2,7 +2,7 @@
 
 # Application Load Alert Notification Add-on for Slack
 
-Get automated alerts in Slack for a certain service isn’t working when some jobs fail or resource limits are about to be exceeded  when:  
+Get automated alerts in Slack for a certain service isn’t working or resource limits are about to be exceeded when:  
 
  - CPU usage is too high
  - RAM consumption exceeds defined limits
