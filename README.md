@@ -1,4 +1,4 @@
-<img src="images/slack-notification.png" width="70"/>
+<img src="images/slack-notification-logo.png" width="70"/>
 
 # Application Load Alert Notification Add-on for Slack
 
